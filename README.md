@@ -1,8 +1,9 @@
 # Merhaba, ben Sena 👋
 
-Backend geliştirme alanına odaklanan bir yazılım geliştiriciyim.
-
-Ağırlıklı olarak PHP, Laravel, JavaScript ve MySQL ile çalışıyorum. Bunun yanında Python ile ilgileniyor, gerçek problemlere çözüm sunan uygulamalar geliştiriyorum.
+PHP, Laravel, JavaScript, MySQL ve Python alanlarında 3,5 yılı aşkın deneyime sahibim. Web uygulamaları,
+yönetim panelleri, REST API entegrasyonları, e-ticaret sistemleri ve sipariş yönetimi iş akışları geliştirdim.
+Veritabanı yönetimi, SQL sorgu optimizasyonu, ödeme ve pazaryeri entegrasyonları, iş akışı otomasyonu,
+cPanel, web sitesi yönetimi, teknik SEO ve performans iyileştirme konularında deneyimliyim.
 
 ### Teknolojiler
 - **Backend ve Mimari:** PHP, Laravel, REST, REST API tasarımı ve geliştirme, backend mimarisi, SaaS mimarileri, API
