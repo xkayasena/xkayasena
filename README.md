@@ -14,12 +14,6 @@ Compatibility
 - **API ve Entegrasyonlar:** RESTful API entegrasyonu, JSON, XML, PayTR, kredi kartı ödeme altyapıları
 - **Hosting ve Operasyon:** cPanel, web sitesi yayına alma, hosting yönetimi, teknik sorun giderme
 
-### Şu An Neler Yapıyorum?
-- Laravel ile backend uygulamaları geliştiriyorum.
-- REST API ve veritabanı odaklı projeler üzerinde çalışıyorum.
-- Yazılım mimarisi ve temiz kod konularında kendimi geliştiriyorum.
-- Python ve otomasyon alanlarını keşfediyorum.
-
 ### İletişim
 - [LinkedIn](https://www.linkedin.com/in/xkayasena/)
 - [Kişisel Web Sitem](https://senakaya.tr)
